@@ -3,7 +3,6 @@ layout: post
 date: 2019-10-28
 author: Tiara
 title: Why I made Gantt chart for the project?
-Categories:[Lifestyle]
 description: Estimate time need for each step and reach a goal using Gantt chart.
 image: assets/images/ex_Gantt-chart.png
 tag: [project-managing, tip, work, collaboration]
