@@ -20,7 +20,7 @@ authors:
     gravatar: 4eff4d645379653024f2ebb562e75fd4
     email: g.tiara.shin@gmail.com
     web: https://g-tiara-shin.github.io
-    twitter: https://twitter.com/Tiara_shin
+    twitter: https://twitter.com/Tiara_Shin
     description: "Garyung is a UX based product manager. She is a genuine problem solver. This is a personal website of how she works or worked."
  
 # Plugins
@@ -45,7 +45,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
@@ -55,7 +55,7 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-client: "a-pub-3676873461095690"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
