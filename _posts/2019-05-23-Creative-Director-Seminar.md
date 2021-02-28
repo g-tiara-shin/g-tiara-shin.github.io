@@ -30,7 +30,7 @@ This session was about the brand "Leegeonmaan" and the designer, Geonmaan Lee. A
 
 His work is inspired by Korean culture and nature. He is actively collaborating with the government sector.
 
-![necktie cover with one of Hanguel character](/images/igm.png)
+![necktie cover with one of Hanguel character](/assets/images/igm.png)
 
 He tried to make something new that didn't exist before. But after the failure, he realized that in order to make something new, you have to copy and analyze the great design first.
 
@@ -64,7 +64,7 @@ Right Brain is one of the top UX digital agency in Korea. At first, they were fo
 
 Seongbong Jo introduced many cases using AI into six areas; home, office, store, mobility, field and health.
 
-![VR beauty store](/images/RB.JPG)
+![VR beauty store](/assets/images/RB.JPG)
 
 AI is highly related to data. It may not be perfect at the beginning. As it accumulates data, the accuracy will be improved. Also, by using AI, companies can easily reach their customers.
 
@@ -78,11 +78,11 @@ Sujin Lee works at a worldwide marketing agency.
 
 Data affect marketing business massively. She calls data as 'the one ring'.
 
-![global data driven status](/images/global_data.JPG)
+![global data driven status](/assets/images/global_data.JPG)
 
 Still, there are a lot more rooms to improve between creative and data. However, designers should consider data as their weapon to persuade clients.
 
-![the purpose of data collection](/images/datadriven.JPG)
+![the purpose of data collection](/assets/images/datadriven.JPG)
 
 > Principles lead, rules follow. Be the guide and guardian of your customer's data. AI can do automotive works, the human can do creative works.
 
@@ -96,7 +96,7 @@ We don't see others as they are. We see them as we are. It is hard to make every
 
 He thinks brands as friends. For instance, Apple can be a hipster, Samsung can be a gentleman and LG phone can be a guy everyone likes but don't want to date.
 
-![Apple, Samsung and LG](/images/manmanman.JPG)
+![Apple, Samsung and LG](/assets/images/manmanman.JPG)
 
 Branding is make these guy charming. He starts the design process by setting up a concept and keeps it consistent.
 
@@ -108,7 +108,7 @@ by Sabum Byun of "[Plus X Creative Partner](http://www.plus-ex.com/)"
 
 Plus X is one of the top 10 agency in the world according to IF. They offer end to end consulting service. There are so many ways to introduce brands. It can be mobile, web, poster, news, logo, typo, people, culture and so on.
 
-![The ways to show brands](/images/brandworks.JPG)
+![The ways to show brands](/assets/images/brandworks.JPG)
 
 This session was all about how they work, collaborate and where they are heading.
 
