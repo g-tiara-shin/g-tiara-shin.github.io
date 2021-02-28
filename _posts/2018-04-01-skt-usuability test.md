@@ -4,7 +4,7 @@ title: SKT usability test
 author: Tiara
 date: 2018-04-01
 categories: [Lifestyle]
-beforetoc : Find out the membership service in skt mobile app through a usability test.
+beforetoc: Find out the membership service in skt mobile app through a usability test.
 image: assets/images/desk.jpg
 duration: [3 days]
 tags: [research, work, Personal project]
