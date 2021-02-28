@@ -42,7 +42,7 @@ I cared for three points on the main screen.
 
 and here is the result.
 
-![main screen](images/tour-in-taxi_main.png)
+![main screen](/assets/images/tour-in-taxi_main.png)
 
 ## 4. What I've learned from it
 It was a great pleasure to find fascinating pictures of Korea. Even for me, I didn't know that there are so many people who are interested in this project. Unfortunately, it couldn't win the contest but it was a good opportunity to work.
