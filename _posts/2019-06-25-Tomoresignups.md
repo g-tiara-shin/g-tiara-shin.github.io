@@ -3,7 +3,6 @@ layout: post
 title: More Sign-ups!
 date: 2019-06-25
 author: tiara
-categories:[Lifestyle]
 beforetoc: Register process and behind the UX
 duration: [1 week]
 image: assets/images/signup_tobe.png
