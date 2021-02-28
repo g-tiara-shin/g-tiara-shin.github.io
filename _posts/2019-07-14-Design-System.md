@@ -3,7 +3,6 @@ layout: post
 title: Design systems using Zeroheight
 author: tiara
 date: 2019-07-14
-categories:[Lifestyle]
 beforetoc: Design system for Moneystation made by in-house designer
 duration: [1 week]
 tag: [ux design, ui design,style guide]
