@@ -34,7 +34,7 @@ Facebook account polish was changed and we were having issues with using faceboo
 
 In addition, there are few more issues it may arise.
 
-![As-is screen of 'Sign-up'](/images/signup_asis.png) 
+![As-is screen of 'Sign-up'](/assets/images/signup_asis.png) 
 
 1) The contrast of the text and the background was less than 1:4.5.
 
@@ -47,7 +47,7 @@ In addition, there are few more issues it may arise.
 ### 1) Benchmarks
 
 
-![Signup for other services](/images/signup_reference.png)
+![Signup for other services](/assets/images/signup_reference.png)
 
 I did sign-up for Linkedin, Twitter, Facebook, Instagram, Reddit, Quora, Naver, Kakao, Pinterest, Weheartit and more.  Many of them use an email address and some Korean services are using phone numbers for the primary information they keep.  Even they don't link to the major SNS services at the beginning, users of Linkedin, Instagram and others can connect with Google or Facebook account after they signed-up.
 
@@ -67,7 +67,7 @@ At this stage of the service, we can't put resources on security or data handlin
 
 
 
-![wireframes: Left one for a single-step, Right one for multi-steps](/images/signup_wireframes.png)
+![wireframes: Left one for a single-step, Right one for multi-steps](/assets/images/signup_wireframes.png)
 
 Left one is for a single step one and the right one is for multi-steps one.
 
@@ -113,9 +113,9 @@ Left one is for a single step one and the right one is for multi-steps one.
 
    > Thanks to the chrome browser and others. I convinced the deveoloper to allow 'password manager' to remember account information. 
 
-![Tobe](/images/signup_tobe.png)
+![Tobe](/assets/images/signup_tobe.png)
 
-![signup_ tobe_multistep](/images/signup_multi-steptobe.png)
+![signup_ tobe_multistep](/assets/images/signup_multi-steptobe.png)
 
 
 ## 4. What I've learned.
