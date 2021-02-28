@@ -3,7 +3,6 @@ layout: post
 title: Creative Director Seminar 2019 - kipfa
 Author: Tiara
 date: 2019-05-23
-categories:[Lifestyle]
 beforetoc: Attending First UX design Seminar in Seoul
 image: assets/images/RB.jpg
 tag: [review, seminar, UX, life]
