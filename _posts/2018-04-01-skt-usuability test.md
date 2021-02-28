@@ -43,7 +43,7 @@ It was 4 days of the journey.
 
 We use the app in our own way to find out is there any usability issues. Followed by categorizing the issues we found.
 
-![affinity diagram](/images/ideation_skt.png)
+![affinity diagram](/assets/images/ideation_skt.png)
 
 ### Day 2. Prepare the interview
 
@@ -55,7 +55,7 @@ Based on the categories, we ended up to three major questions.
 
 3. Where can you use your membership? Can you find any further information in the app?
 
-   ![question-sheet](/images/question_sheet.png)
+   ![question-sheet](/assets/images/question_sheet.png)
 
 ### Day 3. Pilot test
 
