@@ -50,7 +50,7 @@ First, I had a phone interview with the client.
 8) When are you expected to live the site?
 
 
-Based on the answer I've got, I could make a chart. This is all in Korean but you will get the idea.  ![so called Work Breakdown Structure](images/WBS.png)
+Based on the answer I've got, I could make a chart. This is all in Korean but you will get the idea.  ![so called Work Breakdown Structure](/assets/images/WBS.png)
 
 ## 4. What I've learned from it
 
