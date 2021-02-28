@@ -3,7 +3,6 @@ layout: post
 date: 2019-09-15
 title: Tour in taxi...???
 author: Tiara
-Categories:[Side project]
 image:assets/images/taxi.jpg
 description: Short side project for travel service
 tag: [UI design, side project, ideation]
