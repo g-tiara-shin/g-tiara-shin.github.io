@@ -3,7 +3,6 @@ layout: page
 title: About Garyung Tiara Shin 
 permalink: /about
 comments: false
-image: assets/images/profile.jpg
 imageshadow: true
 ---
 
