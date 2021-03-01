@@ -4,7 +4,7 @@ date: 2020-02-09
 author: Tiara
 title: BI for Plant Cafe 'Plantbee'
 beforetoc: Logo and BI work for a plant cafe 
-image: assets/images/Plantbee-presentation.jpg
+image: assets/images/Plantbee_mockup_1.png
 tag: [work, BI]
 ---
 
