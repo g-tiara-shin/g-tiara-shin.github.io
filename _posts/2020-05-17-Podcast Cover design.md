@@ -4,7 +4,7 @@ date: 2020-05-17
 author: Tiara
 title: Cover design for new channel in Podcast
 beforetoc: Spotify is invested on podcast and had a chance to work for a new channel preparing a podcast in Korean.
-image: assets/images/IMG_5961.PNG
+image: assets/images/Preview_podcast.png
 tag: [work, BI, side project, podcast, cover]
 ---
 
