@@ -12,11 +12,10 @@ Quick side project.
 
 
 ## 1. Overview
-Plantbee renovate the greenhouse into cafe. They needed a new logo for their business. They requested logo for Coffe cup, paper bag, signs and business card.
-They have products made of honey. They wanted their logo feels like elegance but at the same time, they wanted it to be simple. It located outside of the city. Because of its location, their target customers will be families with young children. 
+Plantbee renovates a conservotory into a cafe. They needed a logo for their business, which will use at a Coffe cup, paper bag, signs and business card. They have products made of honey. They wanted their logo to feel like elegance, but at the same time, they wanted it to be simple. It located outside of the city. Because of its location, its target customers will be families with young children.
 
 ## 2. Developing
-Based on the salmon color, chose yellow, inspired by honey and chose dark browni inspired by earthy tree or soil for main colors. To add some elegance, I used serif font type. Using poligon for common shape adding radius, wanted to give impression of safe, lovely and happy place.
+As a primary chose salmon colour, yellow, inspired by honey and dark brown, inspired by earthy tree or soil for primary colours. To add some elegance, I used a serif font type. Using polygon shape adding radius, wanted to give the impression of a safe, lovely and happy place.
 
 ## 3. Outcome
 ![plantbee mockups](/assets/images/Plantbee-presentation.jpg)
