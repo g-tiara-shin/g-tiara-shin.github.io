@@ -8,7 +8,7 @@ image: assets/images/ex_Gantt-chart.png
 tag: [project-managing, tip, work, collaboration]
 ---
 
-As long as many people involved, we have to set a timeline to smartly put our energy and work efficiently. So that we can manage our own time and finish our project successfully. I used a Gantt chart for the first time in the project.
+As long as many people involved, we have to set a timeline to put our energy and work efficiently and smartly. Having shared documents, we were easy to put everyone on the same page and track our works. Besides, we can manage our own time and finish our project successfully. 
 
 <!--more-->
 
@@ -20,12 +20,12 @@ As long as many people involved, we have to set a timeline to smartly put our en
 
 ## 1. Overview
 
-A Gantt chart is a tool for project management developed by Henry Gantt. It is a type of bar chart that shows the start and end times for each task in the project schedule. It usually breakdown the project into detailed main tasks and sub-tasks.
+A Gantt chart is a tool for project management developed by Henry Gantt. It is a bar chart that shows the start and end times for each task in the project schedule. It usually breakdown the project into detailed main tasks and sub-tasks.
 
 
 ## 2. What was the problem
 
-There are tones of programs which help project management. Such as Airtable, Google calender, Trello, Jira, Monday.com, Asana, Evernote, Todoist, Slack, etc. I used these programs and simply chose templates that suit best for the situations. However this time, the clients asked me to share project estimate time and schedule using excel. I didn't know what type of chart is best for the projects and started to drill it down.
+There are tones of programs that help project management, such as Airtable, Google calender, Trello, Jira, Monday.com, Asana, Evernote, Todoist, Slack, etc. I used these programs and chose templates that suit the best for the situations. However, this time, the clients asked me to share the project estimate time and schedule using excel. I didn't know what type of chart is best for the projects and started to drill it down.
 
 ## 3. How I solve it
 
@@ -53,9 +53,7 @@ First, I had a phone interview with the client.
 Based on the answer I've got, I could make a chart. This is all in Korean but you will get the idea.  ![so called Work Breakdown Structure](/assets/images/WBS.png)
 
 ## 4. What I've learned from it
-
- Making a chart is not a big deal. The real value of making this chart is for communication. To clarify and bring all the parties into the same page, I recommend having a session for this. It shouldn't have to follow the format or documentation. With this, It was much easier to communicate and meet the satisfaction of both parties.
-
-By having this kind of agreement on schedule, we could finish the project *two weeks ealier* than it orginally expected for <u>one month</u>.
+Making a chart is not a big deal. The real value of making this chart is for communication. To clarify and bring all the parties on the same page, I recommend having a session for this. It shouldn’t have to follow the format or documentation. With this, It was much easier to communicate and meet the satisfaction of both parties.
+We could finish the project two weeks earlier than it initially expected for one month.
 
 >I like the sense of we're all on the same page and trying to get the job done. <cite> Pablo Bryson </cite>
