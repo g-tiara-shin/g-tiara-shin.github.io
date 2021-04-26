@@ -9,11 +9,7 @@ image: assets/images/pere-jurado-mS-ALlImsDg-unsplash.jpg
 tags: [UX, UI, work, Personal project]
 ---
 
-
-Overview
-What was the problem?
-How I solved it?
-What I’ve learned?
+How work shift screen can be more user friendly?
 
 ## Overview
 
