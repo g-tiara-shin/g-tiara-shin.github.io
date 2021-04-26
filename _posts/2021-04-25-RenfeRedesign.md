@@ -42,8 +42,8 @@ Drive can use the primary color of Renfe, just moving train for Orange, and for 
 ### 3) Make buttons bigger with icons matching the text. 
 Based on the interaction with the users, the button changes its conditions; pressed condition when the document read, disabled to active when the document updated. When it comes to driving the train from the origin station, the verification button appears for check before departure. 
 
-<!--Light monde after redesign | Dark mode after redesign
-![screen after redesign lightmode](/assets/images/Galaxy Tab S7_lightmode.jpg){: width="50%" height="50%" style="float:left"} ![screen after redesign darkmode](/assets/images/Galaxy Tab S7_darkmode.jpg){: width="50%" height="50%" style="float:right"}-->
+<!--Light monde after redesign | Dark mode after redesign-->
+![screen after redesign lightmode](/assets/images/Galaxy Tab S7_lightmode.jpg)<!--{: width="50%" height="50%" style="float:left"}  ![screen after redesign darkmode](/assets/images/Galaxy Tab S7_darkmode.jpg){: width="50%" height="50%" style="float:right"}-->
 
 ## What I’ve learned?
 
