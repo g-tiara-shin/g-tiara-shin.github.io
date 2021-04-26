@@ -21,8 +21,6 @@ To guarantee the punctuality and efficiency of work, Renfe started to communicat
 ## What was the problem?
 
 Train drivers have different schedules daily, and the application has some issues. I noticed several technical problems such as, once you reach the bottom, you can’t go up because the scroll bar does not appear, Some minor numbers are wrong due to the incorrect data, and so on. However, I solely focus on this screen’s UI perspective.<br>
-Light monde before redesign | Dark mode before redesign
-![screen before redesign lightmode](/assets/images/Galaxy Tab S7_lightmode_before.jpg){: width="50%" height="50%" style="float:left"} ![screen before redesign darkmode](/assets/images/Galaxy Tab S7 Copy_dark mode_before.png){: width="50%" height="50%" style="float:right"} 
 1. too many icons on top distract eyes which are used rarely.
 2. Documents of train and train schedule share the same icon.
 3. They are counting the documents already read instead of which need to be open
@@ -30,8 +28,7 @@ Light monde before redesign | Dark mode before redesign
 ## How I solved it?
 
 Based on the purpose of this application, I focussed on the features. Which are the schedule of work (when the shift starts and finish), What they should do (drive the train, move the train or just travel), which documents are updated, read and not available and give extra information of weather and reduce the fixed height of the top area of the screen.<br>
-Light monde after redesign | Dark mode after redesign
-![screen after redesign lightmode](/assets/images/Galaxy Tab S7_lightmode.jpg){: width="50%" height="50%" style="float:left"} ![screen after redesign darkmode](/assets/images/Galaxy Tab S7_darkmode.jpg){: width="50%" height="50%" style="float:right"}
+![screens before and after](/assets/images/lightmode before&after.jpg)
 
 ### 1) Leave the most frequently used icons only and adjust the header part. 
 - Sometimes, unexpected accidents can happen, and information such as the train number, departure time, or things can be changing. Usually, the documents regarding each train are updated 30mins before the departure of the train. Therefore, the refresh or sync button is essential. And at the same time, the information when the last time synced can be significant. However, it doesn’t mean that it should keep appearing on there with that vast heights. 
@@ -44,6 +41,9 @@ Drive can use the primary color of Renfe, just moving train for Orange, and for 
 
 ### 3) Make buttons bigger with icons matching the text. 
 Based on the interaction with the users, the button changes its conditions; pressed condition when the document read, disabled to active when the document updated. When it comes to driving the train from the origin station, the verification button appears for check before departure. 
+
+Light monde after redesign | Dark mode after redesign
+![screen after redesign lightmode](/assets/images/Galaxy Tab S7_lightmode.jpg){: width="50%" height="50%" style="float:left"} ![screen after redesign darkmode](/assets/images/Galaxy Tab S7_darkmode.jpg){: width="50%" height="50%" style="float:right"}
 
 ## What I’ve learned?
 
