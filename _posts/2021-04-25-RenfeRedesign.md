@@ -23,7 +23,7 @@ To guarantee the punctuality and efficiency of work, Renfe started to communicat
 Train drivers have different schedules daily, and the application has some issues. I noticed several technical problems such as, once you reach the bottom, you can’t go up because the scroll bar does not appear, Some minor numbers are wrong due to the incorrect data, and so on. However, I solely focus on this screen’s UI perspective.[^myfootnote]
 [^myfootnote]: Drew using sketch based on the picture of screen.
 |Light monde before redesign|Dark mode before redesign|
-|:-------------------------:|:-------------------------:|
+|:---:|:---:|
 |![screen before redesign lightmode](/assets/images/Galaxy Tab S7_lightmode_before.jpg)|![screen before redesign darkmode](/assets/images/Galaxy Tab S7 Copy_dark mode_before.png)|
 1. too many icons on top distract eyes which are used rarely.
 2. Documents of train and train schedule share the same icon.
@@ -33,7 +33,7 @@ Train drivers have different schedules daily, and the application has some issue
 
 Based on the purpose of this application, I focussed on the features. Which are the schedule of work (when the shift starts and finish), What they should do (drive the train, move the train or just travel), which documents are updated, read and not available and give extra information of weather and reduce the fixed height of the top area of the screen.
 |Light monde after redesign | Dark mode after redesign|
-:-------------------------:|:-------------------------:
+|:---:|:---:|
 |![screen after redesign lightmode](/assets/images/Galaxy Tab S7_lightmode.jpg)| ![screen after redesign darkmode](/assets/images/Galaxy Tab S7_darkmode.jpg)|
 
 ### 1) Leave the most frequently used icons only and adjust the header part. 
