@@ -23,5 +23,5 @@ These days, I am interested in Branding design, new services integrating AI, Big
 
 
 
-<a target="_blank" href="https://linkedin.com/gtiashin" class="btn btn-dark"> Find more about at linkedin.</a>
+<a target="_blank" href="https://www.linkedin.com/in/gtiashin/" class="btn btn-dark"> linkedin.</a>
 
