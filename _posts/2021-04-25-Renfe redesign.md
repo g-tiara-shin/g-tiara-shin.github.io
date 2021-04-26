@@ -26,9 +26,9 @@ To guarantee the punctuality and efficiency of work, Renfe started to communicat
 Train drivers have different schedules daily, and the application has some issues. I noticed several technical problems such as, once you reach the bottom, you can’t go up because the scroll bar does not appear, Some minor numbers are wrong due to the incorrect data, and so on. However, I solely focus on this screen’s UI perspective.
 ![screen before redesign lightmode](/assets/images/Galaxy Tab S7_lightmode_before.jpg)
 ![screen before redesign darkmode](/assets/images/Galaxy Tab S7 Copy_dark mode_before.png)
-	1) too many icons on top distract eyes which are used rarely.
-	2) Documents of train and train schedule share the same icon.
-	3) They are counting the documents already read instead of which need to be open
+1) too many icons on top distract eyes which are used rarely.
+2) Documents of train and train schedule share the same icon.
+3) They are counting the documents already read instead of which need to be open
 
 ## How I solved it?
 
