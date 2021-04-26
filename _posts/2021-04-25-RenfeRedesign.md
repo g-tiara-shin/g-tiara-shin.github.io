@@ -10,6 +10,7 @@ tags: [UX, UI, work, Personal project]
 ---
 
 How work shift screen can be more user friendly?
+Target device : Galaxy Tab S7. 
 
 ## Overview
 
