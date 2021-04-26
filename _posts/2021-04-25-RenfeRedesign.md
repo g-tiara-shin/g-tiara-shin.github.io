@@ -20,8 +20,7 @@ To guarantee the punctuality and efficiency of work, Renfe started to communicat
 
 ## What was the problem?
 
-Train drivers have different schedules daily, and the application has some issues. I noticed several technical problems such as, once you reach the bottom, you can’t go up because the scroll bar does not appear, Some minor numbers are wrong due to the incorrect data, and so on. However, I solely focus on this screen’s UI perspective.[^myfootnote]
-[^myfootnote]: Drew using sketch based on the picture of screen.
+Train drivers have different schedules daily, and the application has some issues. I noticed several technical problems such as, once you reach the bottom, you can’t go up because the scroll bar does not appear, Some minor numbers are wrong due to the incorrect data, and so on. However, I solely focus on this screen’s UI perspective.<br>
 Light monde before redesign | Dark mode before redesign
 ![screen before redesign lightmode](/assets/images/Galaxy Tab S7_lightmode_before.jpg){: width="50%" height="50%"}
 ![screen before redesign darkmode](/assets/images/Galaxy Tab S7 Copy_dark mode_before.png){: width="50%" height="50%"} 
