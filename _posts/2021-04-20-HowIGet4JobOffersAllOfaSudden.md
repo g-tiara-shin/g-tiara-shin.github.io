@@ -12,7 +12,6 @@ tag: [work, UX, CV, Foundings]
 I’ve had a chance to talk to my mentor about the CV. When she told me do I have any work experience, I was shocked. At that moment, I realize there is something wrong with my CV. I used one of the templates on google docs. So I went back to the starting point and tried to build up from scratch to be “Reader centric” which is focusing on hiring managers’ point of view. 
 
 ## 2. Problems
-![Previous CV](/assets/images/G.Tiara Shin_CV_2021_before.jpg)
 ### Name
 Even we are living in the gender equality era, others want to know you are female or male. They get a hint of it from your name. 
 #### Consider put your profile picture
@@ -41,8 +40,7 @@ There are hard skills and soft skills. Try to avoid the level of each skill. Ins
 
 
 ## 3. Outcome
-![latest CV](/assets/images/TiaraShin_CV_2021_After.jpg)
-
+![how it changed](/assets/images/CV_before and after.jpg)
 
 ## 4. Learning
 I am fortunate enough to have a chance to get feedback and coaching on my CV from an inspiring entrepreneur woman. 
