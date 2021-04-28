@@ -5,7 +5,7 @@ description: "A UX based product manager/desginer G.Tiara Shin."
 logo: '/assets/images/favicon.png'
 favicon: '/assets/images/favicon.png'
 baseurl: 
-google_analytics: 'UA-120547060-11'
+google_analytics: 'UA-120547060-1'
 disqus: 'blog'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
